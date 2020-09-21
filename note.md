@@ -12,3 +12,5 @@ ssh-keygen -t rsa -C lurongtao@126.com
 - git status
 - git init
 - git add .
+- git remote add origin git@github.com:lurongtao/gp19-git-leaning.git
+- git push --set-upstream origin master
